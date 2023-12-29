@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJavadZallaghi (Mohammad Javad Zallaghi). I hold a M.Sc. in Mechanical Engineering — Applied Mechanics from Amirkabir University of Technology (Tehran Polytechnic) with a strong emphasis on Robotics, Dynamics, and Control.
 - 👀 I’m interested in Robotics: Mobile Robots, Autonomous Driving, and Intelligent Systems.
 - 🌱 I’m currently working on ADAS and Autonomous Vehicle Algorithm Engineering Projects.
-- 💞️ I've defined, and I'm working on ROS2 robot software development with simulation inside Webots: The repo: https://github.com/MJavadZallaghi/ros2webots
+- 💞️ I've defined projects, and I'm working on ROS2 robot software development with simulation inside Webots: The repo: https://github.com/MJavadZallaghi/ros2webots
 - 📫 How to reach me: MohammadJavadZallaghi@gmail.com | https://www.linkedin.com/in/mohammad-javad-zallaghi-061645106/
 
 <!---
