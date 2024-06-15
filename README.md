@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MJavadZallaghi (Mohammad Javad Zallaghi). I hold a M.Sc. in Mechanical Engineering — Applied Mechanics from Amirkabir University of Technology (Tehran Polytechnic) with a strong emphasis on Robotics, Dynamics, and Control.
-- 👀 I’m interested in Robotics: Mobile Robots, Autonomous Driving, and Intelligent Systems.
-- 🌱 I’m currently working on ADAS and Autonomous Vehicle Algorithm Engineering Projects.
-- 💞️ I've defined projects, and I'm working on ROS2 robot software development with simulation inside Webots: The repo: https://github.com/MJavadZallaghi/ros2webots
-- 📫 How to reach me: MohammadJavadZallaghi@gmail.com | https://www.linkedin.com/in/mohammad-javad-zallaghi-061645106/
+- 👋 Hi, I’m @MJavadZallaghi (Mohammad Javad Zallaghi), a PhD researcher at VUB BruBotics, and I work on Autonomous Navigation of Aerial Robots and Drone.
+- 👀 I’m interested in Robotics: Mobile and Aerial Robots, Autonomous Navigation, and Intelligent Systems.
+- 🌱 I’m currently working on Robot Motion Algorithms (Control) and Software Development for Autonomous Navigation.
+- 💞️ The Hobby Project: ROS2 robot software development with simulation inside Webots: The repo: https://github.com/MJavadZallaghi/ros2webots
+- 📫 How to reach me: Mohammad.Javad.Zallaghi@vub.be | MohammadJavadZallaghi@gmail.com | https://www.linkedin.com/in/mjavadzallaghi/
 
 <!---
 MJavadZallaghi/MJavadZallaghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
