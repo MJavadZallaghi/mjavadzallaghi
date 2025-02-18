@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MJavadZallaghi (Mohammad Javad Zallaghi), a PhD researcher at VUB BruBotics, and I work on the Autonomous Navigation of Robots utilizing Reinforcement Learning.
+- 👋 Hi, I’m @MJavadZallaghi (Mohammad Javad Zallaghi), a PhD researcher at VUB BruBotics, and I work on the Autonomous Navigation of Robots utilizing Reinforcement Learning (RL).
 - 👀 I’m interested in Robotics: Mobile and Aerial Robots, Autonomous Navigation, and Intelligent Systems.
 - 🌱 I’m currently working on Learning-based Algorithms for Autonomous Navigation with Safe Control and also Software Development for that purpose.
 - 💞️ The Hobby Project: ROS2 robot software development with simulation inside Webots: The repo: https://github.com/MJavadZallaghi/ros2webots
